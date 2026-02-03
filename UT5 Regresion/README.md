@@ -6,6 +6,8 @@ Este proyecto es un análisis completo de modelos de regresión aplicados a data
 
 - Este notebook está compartido en Google Colab mediante [este enlace](https://colab.research.google.com/drive/1EoiAKYOz3lxR4b_daBpYQqNHKzuobylq?usp=sharing)
 
+- El [video explicativo del ejercicio](https://borjen.dev/3792001/alu/presentaciones/videos/) está en este enlace.
+  
 - `UT5_REGRESION_Borja_Ramos.ipynb` incluye:
 
 ### 1. **Preprocesado de Datos**
