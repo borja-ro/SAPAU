@@ -1,0 +1,886 @@
+[
+  {
+    "id": 1,
+    "fecha": "2026-03-02",
+    "pais_region": "España / Unión Europea",
+    "fuente": "La Razón",
+    "url": "https://www.larazon.es/economia/espana-moviliza-100-millones-reforzar-soberania-digital-europea-proyectos_2026030369a6ac7e2f00a0.html",
+    "titulo": "España moviliza 100 millones para proyectos de IA que refuercen la soberanía digital europea",
+    "resumen": "El Gobierno español ha anunciado una partida de 100 millones de euros para apoyar a empresas nacionales que desarrollen proyectos de inteligencia artificial dentro del mecanismo europeo IPCEI, con el objetivo de fortalecer la autonomía tecnológica de la UE y seleccionar iniciativas de alto impacto en computación, chips y software avanzado.",
+    "categoria_manual": "economía digital / política industrial / IA",
+    "terminos_clave": [
+      "IPCEI IA",
+      "soberanía digital",
+      "subvenciones",
+      "economía digital",
+      "España",
+      "Unión Europea"
+    ]
+  },
+  {
+    "id": 2,
+    "fecha": "2026-05-13",
+    "pais_region": "España",
+    "fuente": "EciJA / análisis jurídico",
+    "url": "https://www.ecija.com/actualidad-insights/espana-avanza-la-tramitacion-del-anteproyecto-de-ley-de-ia-tras-el-dictamen-del-ces/",
+    "titulo": "España avanza en el Anteproyecto de Ley de IA tras el dictamen del CES",
+    "resumen": "El Anteproyecto de Ley español sobre buen uso y gobernanza de la inteligencia artificial ha superado un nuevo hito tras el dictamen del Consejo Económico y Social, que propone ajustes en la gobernanza, la coordinación de autoridades y el régimen sancionador, buscando alinearse con el Reglamento europeo de IA y con especial impacto en el ámbito laboral y empresarial.",
+    "categoria_manual": "regulación tecnológica / IA",
+    "terminos_clave": [
+      "Anteproyecto Ley IA",
+      "CES",
+      "gobernanza",
+      "sanciones",
+      "España",
+      "AI Act"
+    ]
+  },
+  {
+    "id": 3,
+    "fecha": "2026-01-19",
+    "pais_region": "Unión Europea",
+    "fuente": "DOUE / BOE",
+    "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2026-80053",
+    "titulo": "La UE refuerza la Empresa Común de Informática de Alto Rendimiento Europea",
+    "resumen": "El Reglamento (UE) 2026/150 modifica el marco de la Empresa Común de Informática de Alto Rendimiento Europea para ampliar su mandato y financiación, consolidando la infraestructura de supercomputación que sustenta proyectos de IA avanzada, simulación científica y procesamiento masivo de datos en toda la Unión.",
+    "categoria_manual": "infraestructura digital / supercomputación / IA",
+    "terminos_clave": [
+      "EuroHPC",
+      "supercomputación",
+      "alta computación",
+      "IA",
+      "UE",
+      "Reglamento 2026/150"
+    ]
+  },
+  {
+    "id": 4,
+    "fecha": "2026-05-01",
+    "pais_region": "Unión Europea",
+    "fuente": "Comisión Europea",
+    "url": "https://digital-strategy.ec.europa.eu/es/policies/regulatory-framework-ai",
+    "titulo": "La Ley de IA de la UE entra en fase de aplicación progresiva",
+    "resumen": "La Ley de Inteligencia Artificial de la UE, primer marco jurídico integral sobre esta tecnología, ha comenzado su despliegue gradual con obligaciones diferenciadas según el nivel de riesgo de los sistemas, reforzando la protección de derechos fundamentales y exigiendo requisitos estrictos de transparencia, supervisión humana y ciberseguridad a las aplicaciones de alto riesgo.",
+    "categoria_manual": "regulación tecnológica / IA",
+    "terminos_clave": [
+      "AI Act",
+      "riesgo alto",
+      "riesgo inaceptable",
+      "transparencia",
+      "derechos fundamentales",
+      "UE"
+    ]
+  },
+  {
+    "id": 5,
+    "fecha": "2026-02-15",
+    "pais_region": "Unión Europea",
+    "fuente": "Agencias / análisis legal",
+    "url": "https://elderecho.com/ha-entrado-ya-en-vigor-la-ley-europea-de-la-ia-pero-la-mayoria-de-las-normas-empezaran-a-aplicarse-en-2026",
+    "titulo": "Entra en vigor la ley europea de IA con sanciones de hasta el 7% de la facturación",
+    "resumen": "La normativa europea de IA ya está en vigor, aunque la mayor parte de sus disposiciones se aplicarán de forma escalonada hasta 2026, estableciendo un sistema de categorías de riesgo y multas que pueden alcanzar el 7% de la facturación mundial de las empresas que usen sistemas prohibidos o incumplan obligaciones clave.",
+    "categoria_manual": "regulación tecnológica / cumplimiento",
+    "terminos_clave": [
+      "AI Act",
+      "sanciones",
+      "riesgo inaceptable",
+      "chatbots",
+      "biometría",
+      "cumplimiento normativo"
+    ]
+  },
+  {
+    "id": 6,
+    "fecha": "2025-10-07",
+    "pais_region": "Unión Europea",
+    "fuente": "Comisión Europea",
+    "url": "https://digital-strategy.ec.europa.eu/es/news/commission-collects-feedback-simplify-rules-data-cybersecurity-and-artificial-intelligence",
+    "titulo": "La Comisión Europea abre consulta para simplificar normas de datos, ciberseguridad e IA",
+    "resumen": "La Comisión ha lanzado una convocatoria de aportaciones para preparar un futuro paquete Ómnibus Digital, con el objetivo de simplificar y armonizar la normativa de la UE en materia de datos, ciberseguridad e inteligencia artificial, incorporando evidencias y buenas prácticas de empresas, reguladores y sociedad civil.",
+    "categoria_manual": "regulación tecnológica / ciberseguridad",
+    "terminos_clave": [
+      "Ómnibus Digital",
+      "datos",
+      "ciberseguridad",
+      "IA",
+      "consulta pública",
+      "Comisión Europea"
+    ]
+  },
+  {
+    "id": 7,
+    "fecha": "2026-03-04",
+    "pais_region": "Unión Europea",
+    "fuente": "Garrigues",
+    "url": "https://www.garrigues.com/es_ES/noticia/ue-impulsa-2026-profunda-reconfiguracion-economia-digital-proponiendo-modificaciones",
+    "titulo": "La UE prepara para 2026 una profunda reconfiguración de la economía digital",
+    "resumen": "En 2026 la Unión Europea afronta una oleada de reformas legislativas que afectan a la economía digital, desde la inteligencia artificial hasta la ciberseguridad y los datos, con cambios que impactarán en la competitividad de las plataformas, la responsabilidad de los proveedores tecnológicos y las obligaciones de transparencia algorítmica.",
+    "categoria_manual": "economía digital / regulación tecnológica",
+    "terminos_clave": [
+      "economía digital",
+      "IA",
+      "ciberseguridad",
+      "datos",
+      "regulación UE",
+      "plataformas"
+    ]
+  },
+  {
+    "id": 8,
+    "fecha": "2025-09-24",
+    "pais_region": "Unión Europea",
+    "fuente": "PwC España",
+    "url": "https://www.pwc.es/es/newlaw-pulse/legaltech/ria-exige-etiquetado-explicito-contenido-generado-ia.html",
+    "titulo": "El Reglamento Europeo de IA exigirá etiquetar el contenido generado por máquinas",
+    "resumen": "A partir de agosto de 2026, el Reglamento europeo de IA obligará a que los contenidos generados mediante sistemas de inteligencia artificial sean identificados de forma explícita, lo que obliga a plataformas y empresas a adaptar sus flujos de creación, moderación y distribución de contenidos digitales.",
+    "categoria_manual": "regulación tecnológica / contenidos digitales",
+    "terminos_clave": [
+      "etiquetado IA",
+      "contenido generado",
+      "AI Act",
+      "plataformas digitales",
+      "transparencia"
+    ]
+  },
+  {
+    "id": 9,
+    "fecha": "2024-02-14",
+    "pais_region": "Unión Europea / España",
+    "fuente": "PwC España",
+    "url": "https://www.pwc.es/es/newlaw-pulse/legaltech/marco-regulatorio-actual-inteligencia-artificial.html",
+    "titulo": "Visión general del marco regulatorio de IA en Europa y su impacto en España",
+    "resumen": "Un análisis del marco regulatorio europeo de IA destaca el enfoque basado en riesgos, la coordinación con normas de protección de datos y ciberseguridad, y adelanta cómo estas reglas condicionan el diseño de sistemas automatizados en empresas españolas de sectores como banca, industria y servicios públicos.",
+    "categoria_manual": "regulación tecnológica / empresa",
+    "terminos_clave": [
+      "marco regulatorio IA",
+      "riesgos",
+      "protección de datos",
+      "ciberseguridad",
+      "empresas españolas"
+    ]
+  },
+  {
+    "id": 10,
+    "fecha": "2026-01-28",
+    "pais_region": "España",
+    "fuente": "Adigital / Europa Press",
+    "url": "https://www.europapress.es/economia/noticia-empresas-apuntan-normativas-ia-ciberseguridad-prioridades-regulatorias-2026-20260128.html",
+    "titulo": "Las empresas españolas señalan la regulación de IA y ciberseguridad como prioridad en 2026",
+    "resumen": "Una encuesta de Adigital revela que las compañías españolas consideran las nuevas normas sobre inteligencia artificial y la transposición de la directiva NIS2 como sus principales retos regulatorios, por el aumento de obligaciones de gestión de riesgos, reporte de incidentes y coordinación con autoridades supervisoras.",
+    "categoria_manual": "regulación tecnológica / ciberseguridad / empresa",
+    "terminos_clave": [
+      "NIS2",
+      "regulación IA",
+      "empresas",
+      "gestión de riesgos",
+      "ciberseguridad",
+      "España"
+    ]
+  },
+  {
+    "id": 11,
+    "fecha": "2026-01-29",
+    "pais_region": "Unión Europea / España",
+    "fuente": "CyberMadrid",
+    "url": "https://www.cybermadrid.org/noticias/noticia.php?idnoticia=240",
+    "titulo": "2026, año clave para la nueva Ley de Ciberseguridad de la UE",
+    "resumen": "CyberMadrid destaca que 2026 marcará la actualización profunda del marco europeo de ciberseguridad con una propuesta conocida como Cybersecurity Act 2, que endurecerá requisitos para sectores críticos y proveedores tecnológicos, incrementando la demanda de talento especializado y soluciones de seguridad avanzada.",
+    "categoria_manual": "ciberseguridad / regulación tecnológica",
+    "terminos_clave": [
+      "Cybersecurity Act 2",
+      "ciberseguridad UE",
+      "sectores críticos",
+      "proveedores TIC",
+      "regulación"
+    ]
+  },
+  {
+    "id": 12,
+    "fecha": "2026-02-12",
+    "pais_region": "España",
+    "fuente": "Ministerio para la Transformación Digital / INCIBE",
+    "url": "http://espanadigital.gob.es/va/actualidad/incibe-gestiono-122223-incidentes-de-ciberseguridad-en-2025-un-26-mas-que-el-ano",
+    "titulo": "INCIBE gestionó 122.223 incidentes de ciberseguridad en 2025, un 26% más",
+    "resumen": "El Instituto Nacional de Ciberseguridad ha informado de un incremento del 26% en los incidentes gestionados en 2025, con más de 400 casos vinculados a operadores esenciales bajo el paraguas de NIS2, lo que confirma la creciente presión de las amenazas digitales sobre empresas y servicios críticos en España.",
+    "categoria_manual": "ciberseguridad / administración pública",
+    "terminos_clave": [
+      "INCIBE",
+      "incidentes ciberseguridad",
+      "NIS2",
+      "operadores esenciales",
+      "España"
+    ]
+  },
+  {
+    "id": 13,
+    "fecha": "2026-05-13",
+    "pais_region": "España",
+    "fuente": "Channel Partner",
+    "url": "https://www.channelpartner.es/seguridad/principales-ciberataques-en-espana-en-espana-en-2026/",
+    "titulo": "Principales ciberataques en España en 2026",
+    "resumen": "Un repaso a los grandes incidentes de ciberseguridad en España en lo que va de 2026, incluyendo un ataque relevante a una gran eléctrica que expuso datos de millones de clientes y otros casos que han reabierto el debate sobre resiliencia digital, inversión en seguridad y cumplimiento regulatorio.",
+    "categoria_manual": "ciberseguridad / economía digital",
+    "terminos_clave": [
+      "ciberataques",
+      "Endesa",
+      "datos personales",
+      "resiliencia",
+      "España",
+      "seguridad TI"
+    ]
+  },
+  {
+    "id": 14,
+    "fecha": "2026-04-22",
+    "pais_region": "España",
+    "fuente": "Cosmikal",
+    "url": "https://www.cosmikal.es/ciberseguridad-en-espana-q1-2026-amenazas-reales-marco-normativo-pendiente-y-un-sector-en-plena-ebullicion/",
+    "titulo": "Radiografía de la ciberseguridad en España en el primer trimestre de 2026",
+    "resumen": "Un informe sectorial detalla las principales amenazas que han afectado a empresas españolas en el primer trimestre de 2026, subrayando el auge del ransomware y el phishing avanzado, así como la necesidad de adaptar organizaciones al nuevo marco NIS2 y a las reformas europeas en ciberseguridad.",
+    "categoria_manual": "ciberseguridad / empresa",
+    "terminos_clave": [
+      "ransomware",
+      "phishing",
+      "NIS2",
+      "empresas",
+      "España",
+      "amenazas 2026"
+    ]
+  },
+  {
+    "id": 15,
+    "fecha": "2026-02-17",
+    "pais_region": "España",
+    "fuente": "El Español / NTT Data",
+    "url": "https://www.elespanol.com/invertia/disruptores/politica-digital/espana/20260218/cibercrimen-ceba-espana-registra-ataques-significativos/837638998_0.html",
+    "titulo": "España se sitúa entre los países más afectados por el cibercrimen",
+    "resumen": "Un estudio de NTT Data sitúa a España en la cúspide mundial de víctimas de cibercrimen, con más de 600 incidentes graves en la segunda mitad de 2025, lo que refuerza el papel estratégico de la ciberseguridad en la agenda económica y geopolítica del país.",
+    "categoria_manual": "ciberseguridad / economía digital",
+    "terminos_clave": [
+      "cibercrimen",
+      "NTT Data",
+      "incidentes graves",
+      "España",
+      "geopolítica digital"
+    ]
+  },
+  {
+    "id": 16,
+    "fecha": "2026-05-12",
+    "pais_region": "Unión Europea / España",
+    "fuente": "The Objective",
+    "url": "https://theobjective.com/actualidad/2026-05-13/europa-perder-367-800-millones-por-revision-ley-ciberseguridad/",
+    "titulo": "Un informe alerta de posibles pérdidas por la revisión de la Ley de Ciberseguridad europea",
+    "resumen": "Un análisis económico advierte de que la revisión de la Ley de Ciberseguridad de la UE podría generar pérdidas acumuladas de cientos de miles de millones de euros hasta 2030, con fuerte impacto en sectores como el energético y las telecomunicaciones en España, si se opta por un enfoque regulatorio demasiado restrictivo.",
+    "categoria_manual": "ciberseguridad / economía digital / regulación",
+    "terminos_clave": [
+      "Ley de Ciberseguridad",
+      "CSA2",
+      "pérdidas económicas",
+      "energía",
+      "telecomunicaciones",
+      "España"
+    ]
+  },
+  {
+    "id": 17,
+    "fecha": "2026-03-29",
+    "pais_region": "España",
+    "fuente": "The Objective / UGT FICA",
+    "url": "https://theobjective.com/economia/2026-03-30/ugt-reclama-impuesto-robots-regulacion-ia/",
+    "titulo": "UGT pide un impuesto a los robots y reglas éticas para la IA en la industria del automóvil",
+    "resumen": "La federación industrial de UGT ha reclamado un impuesto a los robots y una regulación ética de la inteligencia artificial para evitar que la automatización en el sector automovilístico destruya empleo y genere competencia desleal, proponiendo combinar avances tecnológicos con medidas como la reducción de jornada.",
+    "categoria_manual": "empleo / automatización / regulación laboral",
+    "terminos_clave": [
+      "impuesto a los robots",
+      "UGT",
+      "automatización",
+      "IA",
+      "empleo",
+      "industria del automóvil"
+    ]
+  },
+  {
+    "id": 18,
+    "fecha": "2026-02-08",
+    "pais_region": "España / internacional",
+    "fuente": "La Razón / Politico",
+    "url": "https://www.larazon.es/tecnologia-consumo/saltan-las-alarmas-entre-los-sindicatos-los-robots-empiezan-a-sustituir-a-los-trabajadores-20260208.html",
+    "titulo": "Sindicatos alertan del avance de robots humanoides impulsados por IA",
+    "resumen": "Informes que citan acuerdos de fabricantes de robótica para desplegar miles de humanoides entre 2026 y 2030 reavivan las inquietudes sindicales sobre el reemplazo de puestos de trabajo, apuntando a una mayor presión sobre sectores logísticos e industriales y a la necesidad de políticas activas de adaptación laboral.",
+    "categoria_manual": "empleo / automatización",
+    "terminos_clave": [
+      "robots humanoides",
+      "IA",
+      "sindicatos",
+      "logística",
+      "automatización",
+      "empleo"
+    ]
+  },
+  {
+    "id": 19,
+    "fecha": "2026-01-28",
+    "pais_region": "España",
+    "fuente": "Future for Work Institute",
+    "url": "https://www.futureforwork.com/empleo-tecnologico-en-espana-entre-expectativas-y-realidad/",
+    "titulo": "Empleo tecnológico en España entre expectativas y realidad",
+    "resumen": "Un análisis sobre el empleo tecnológico en España examina cómo la automatización y la inteligencia artificial empiezan a modificar tareas, especialmente en perfiles junior, y plantea retos para la formación continua y la transferencia de conocimiento dentro de las organizaciones.",
+    "categoria_manual": "empleo / economía digital / educación",
+    "terminos_clave": [
+      "empleo tecnológico",
+      "automatización",
+      "IA",
+      "perfiles junior",
+      "formación continua",
+      "España"
+    ]
+  },
+  {
+    "id": 20,
+    "fecha": "2026-03-24",
+    "pais_region": "España",
+    "fuente": "Europa Press / Ministerio de Educación",
+    "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-gobierno-creara-programa-ia-educacion-profesores-alumnos-familias-20260324.html",
+    "titulo": "El Gobierno lanzará un Programa de IA en Educación dotado con 140 millones",
+    "resumen": "El Ministerio de Educación ha anunciado un Programa de Inteligencia Artificial en Educación para 2026 y 2027, con 140 millones de euros destinados a impulsar aplicaciones de IA en la enseñanza y en la gestión del sistema educativo, priorizando herramientas públicas, formación docente y un uso crítico de estas tecnologías.",
+    "categoria_manual": "educación / IA / administración pública",
+    "terminos_clave": [
+      "IA en educación",
+      "140 millones",
+      "formación docente",
+      "herramientas públicas",
+      "España"
+    ]
+  },
+  {
+    "id": 21,
+    "fecha": "2025-10-28",
+    "pais_region": "España (Comunidad de Madrid)",
+    "fuente": "Europa Press",
+    "url": "https://www.europapress.es/madrid/noticia-comunidad-impulsara-2026-aplicacion-ia-administracion-invertira-534-millones-tecnologia-20251028.html",
+    "titulo": "La Comunidad de Madrid invertirá más de 500 millones en IA y digitalización de su Administración",
+    "resumen": "La Comunidad de Madrid ha presentado un plan para 2026 que contempla más de 500 millones de euros en modernizar su Administración con tecnologías de IA, incluyendo proyectos de automatización de trámites, herramientas para sanidad y servicios sociales y un marketplace de soluciones de IA para pymes.",
+    "categoria_manual": "administración pública digital / IA / pymes",
+    "terminos_clave": [
+      "Comunidad de Madrid",
+      "IA en administración",
+      "marketplace IA",
+      "pymes",
+      "sanidad",
+      "servicios sociales"
+    ]
+  },
+  {
+    "id": 22,
+    "fecha": "2026-01-01",
+    "pais_region": "España",
+    "fuente": "ConSalud / Consejo Interterritorial",
+    "url": "https://www.consalud.es/industria/la-estrategia-de-inteligencia-artificial-para-el-sns-inicia-en-2026-bajo-un-modelo-de-equidad/",
+    "titulo": "Arranca en 2026 la Estrategia de Inteligencia Artificial para el Sistema Nacional de Salud",
+    "resumen": "En 2026 comienza el despliegue de la Estrategia de IA para el Sistema Nacional de Salud, que busca extender el uso de algoritmos en diagnóstico por imagen, medicina personalizada, robótica quirúrgica y monitorización remota, bajo principios de equidad y coordinación entre comunidades autónomas.",
+    "categoria_manual": "sanidad / IA / administración pública",
+    "terminos_clave": [
+      "Estrategia IA SNS",
+      "diagnóstico por imagen",
+      "medicina personalizada",
+      "robótica quirúrgica",
+      "monitorización remota"
+    ]
+  },
+  {
+    "id": 23,
+    "fecha": "2025-11-02",
+    "pais_region": "España",
+    "fuente": "Ministerio para la Transformación Digital / Red.es",
+    "url": "https://digital.gob.es/comunicacion/notas-prensa/secretaria-digitalizacion-e-inteligencia-artificial/2025/11/2025-11-03",
+    "titulo": "Red.es lanza la convocatoria RedIA Salud con 50 millones para proyectos de IA en sanidad",
+    "resumen": "Red.es ha abierto la convocatoria RedIA Salud, dotada con 50 millones de euros para financiar proyectos de inteligencia artificial en el sistema sanitario, desde diagnóstico asistido hasta gestión hospitalaria y emergencias, con la obligación de demostrar resultados en entornos reales y colaboración con hospitales y centros de investigación.",
+    "categoria_manual": "sanidad / economía digital / IA",
+    "terminos_clave": [
+      "RedIA Salud",
+      "50 millones",
+      "diagnóstico asistido",
+      "gestión hospitalaria",
+      "IA generativa",
+      "España"
+    ]
+  },
+  {
+    "id": 24,
+    "fecha": "2026-03-30",
+    "pais_region": "España",
+    "fuente": "Cuenta oficial UGT (síntesis de declaraciones)",
+    "url": "https://www.instagram.com/reel/DWjZy2pAH-e/",
+    "titulo": "UGT insiste en regular la robotización y la IA para proteger el empleo",
+    "resumen": "A través de declaraciones públicas recientes, UGT ha vuelto a alertar sobre el impacto de la robotización y la inteligencia artificial en el empleo industrial, reclamando intervención pública, diálogo social y medidas fiscales que compensen la sustitución de tareas humanas por máquinas.",
+    "categoria_manual": "empleo / automatización / política laboral",
+    "terminos_clave": [
+      "UGT",
+      "robotización",
+      "IA",
+      "empleo industrial",
+      "política laboral"
+    ]
+  },
+  {
+    "id": 25,
+    "fecha": "2026-04-30",
+    "pais_region": "España",
+    "fuente": "Chakray (guía empresas)",
+    "url": "https://chakray.com/es/ley-de-inteligencia-artificial-en-espana-requisitos-tecnicos-riesgos-y-adaptacion-para-empresas/",
+    "titulo": "Guía para que las empresas españolas se adapten al AI Act",
+    "resumen": "Una guía publicada para empresas españolas detalla los requisitos técnicos y de gobernanza que introduce el AI Act, ofreciendo recomendaciones para inventariar sistemas de IA, clasificar riesgos y diseñar procesos de cumplimiento que reduzcan la exposición a sanciones.",
+    "categoria_manual": "regulación tecnológica / empresa / cumplimiento",
+    "terminos_clave": [
+      "AI Act",
+      "cumplimiento",
+      "inventario IA",
+      "gestión de riesgos",
+      "empresas españolas"
+    ]
+  },
+  {
+    "id": 26,
+    "fecha": "2025-07-31",
+    "pais_region": "España / Unión Europea",
+    "fuente": "Grupo 2000",
+    "url": "https://www.grupo2000.es/chatgpt-incumple-las-leyes-de-proteccion-de-datos/",
+    "titulo": "Claves de la Ley de Inteligencia Artificial para evitar sanciones en las empresas",
+    "resumen": "Un análisis divulgativo explica cómo el nuevo marco europeo de IA se entrelaza con la protección de datos y ofrece pautas para que pymes y profesionales eviten usos inadecuados de sistemas generativos, reduciendo el riesgo de sanciones y reclamaciones por vulneración de derechos.",
+    "categoria_manual": "regulación tecnológica / protección de datos",
+    "terminos_clave": [
+      "Ley de IA",
+      "protección de datos",
+      "pymes",
+      "sanciones",
+      "ChatGPT",
+      "cumplimiento"
+    ]
+  },
+  {
+    "id": 27,
+    "fecha": "2026-04-01",
+    "pais_region": "España",
+    "fuente": "Deloitte España",
+    "url": "https://www.deloitte.com/es/es/services/consulting/research/estado-ciberseguridad.html",
+    "titulo": "Informe 2026 sobre el estado de la ciberseguridad en España",
+    "resumen": "Deloitte presenta un informe que señala cómo la ciberseguridad se integra cada vez más en la estrategia corporativa española, impulsada por la presión regulatoria y el aumento de ataques, aunque persisten desafíos en talento especializado, presupuesto y gobierno de la seguridad.",
+    "categoria_manual": "ciberseguridad / empresa / estrategia",
+    "terminos_clave": [
+      "ciberseguridad",
+      "estrategia empresarial",
+      "talento",
+      "regulación",
+      "España"
+    ]
+  },
+  {
+    "id": 28,
+    "fecha": "2025-11-03",
+    "pais_region": "España / Unión Europea",
+    "fuente": "Ministerio para la Transformación Digital",
+    "url": "http://espanadigital.gob.es/en/actualidad/abierta-la-convocatoria-redia-salud-para-proyectos-de-inteligencia-artificial-en-el",
+    "titulo": "El Gobierno detalla la convocatoria RedIA Salud cofinanciada con fondos europeos",
+    "resumen": "El portal España Digital amplía información sobre RedIA Salud, subrayando que los proyectos financiados deberán hacer uso intensivo de tecnologías de machine learning y deep learning y que las ayudas están respaldadas por fondos FEDER en el marco del programa plurirregional 2021-2027.",
+    "categoria_manual": "sanidad / fondos europeos / IA",
+    "terminos_clave": [
+      "RedIA Salud",
+      "FEDER",
+      "machine learning",
+      "deep learning",
+      "España Digital"
+    ]
+  },
+  {
+    "id": 29,
+    "fecha": "2026-02-01",
+    "pais_region": "Unión Europea",
+    "fuente": "Comisión Europea",
+    "url": "https://digital-strategy.ec.europa.eu/es/policies/european-approach-artificial-intelligence",
+    "titulo": "La UE consolida su enfoque basado en excelencia y confianza para la IA",
+    "resumen": "La estrategia europea de IA insiste en combinar inversión en capacidad industrial y científica con un estricto respeto a los derechos fundamentales, usando el AI Act como pilar regulatorio y apoyando proyectos que impulsen la competitividad frente a Estados Unidos y China.",
+    "categoria_manual": "estrategia digital / IA / política pública",
+    "terminos_clave": [
+      "estrategia europea IA",
+      "excelencia",
+      "confianza",
+      "derechos fundamentales",
+      "competitividad"
+    ]
+  },
+  {
+    "id": 30,
+    "fecha": "2026-03-15",
+    "pais_region": "España / Unión Europea",
+    "fuente": "Asociaciones sectoriales / prensa económica",
+    "url": "https://www.europapress.es/economia/noticia-empresas-apuntan-normativas-ia-ciberseguridad-prioridades-regulatorias-2026-20260128.html",
+    "titulo": "Empresas españolas se preparan para un 2026 marcado por la regulación digital europea",
+    "resumen": "Organizaciones empresariales españolas coinciden en que 2026 estará dominado por la adaptación al AI Act, la directiva NIS2 y las nuevas normas de ciberseguridad, lo que implica revisar procesos de automatización, gobierno de datos y relación con administraciones públicas.",
+    "categoria_manual": "economía digital / empresa / regulación",
+    "terminos_clave": [
+      "AI Act",
+      "NIS2",
+      "regulación digital",
+      "empresas españolas",
+      "automatización",
+      "datos"
+    ]
+  },
+  {
+    "id": 31,
+    "fecha": "2026-05-04",
+    "pais_region": "España",
+    "fuente": "La Moncloa",
+    "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/paginas/2026/050526-rueda-prensa-ministros.aspx",
+    "titulo": "El Gobierno aprueba una oferta de empleo público que refuerza perfiles de IA y digitalización",
+    "resumen": "El Consejo de Ministros ha aprobado la Oferta de Empleo Público de 2026, que incrementa de forma notable las plazas vinculadas a tecnologías digitales y al uso de la inteligencia artificial en la Administración General del Estado, con el objetivo de modernizar servicios públicos y mejorar su eficiencia mediante automatización y análisis avanzado de datos.",
+    "categoria_manual": "administración pública / empleo / digitalización",
+    "terminos_clave": [
+      "Oferta de Empleo Público 2026",
+      "función pública digital",
+      "inteligencia artificial",
+      "Administración General del Estado",
+      "empleo tecnológico"
+    ]
+  },
+  {
+    "id": 32,
+    "fecha": "2026-05-04",
+    "pais_region": "España",
+    "fuente": "Ministerio para la Transformación Digital y de la Función Pública",
+    "url": "https://digital.gob.es/comunicacion/notas-prensa/mtdfp/2026/05/el-gobierno-aprueba-la-oferta-de-empleo-publico-para-2026–con-1",
+    "titulo": "La OEP 2026 reserva 1.700 plazas tecnológicas para transformar la Administración",
+    "resumen": "La nota oficial del Ministerio detalla que la Oferta de Empleo Público de 2026 incluye 1.700 plazas específicas para especialistas en tecnologías de la información, con foco en inteligencia artificial, ciberseguridad y ciencia de datos, buscando dotar a la Administración de capacidades internas para desplegar proyectos de automatización, analítica avanzada y protección frente a ciberamenazas.",
+    "categoria_manual": "administración pública / empleo / IA",
+    "terminos_clave": [
+      "OEP 2026",
+      "especialistas IA",
+      "ciberseguridad",
+      "ciencia de datos",
+      "empleo público tecnológico"
+    ]
+  },
+  {
+    "id": 33,
+    "fecha": "2026-05-20",
+    "pais_region": "España",
+    "fuente": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/espana-tendra-27-000-nuevos-funcionarios-sorpresa-que-ahora-se-buscan-expertos-ia-ciberseguridad",
+    "titulo": "España abre más de 27.000 plazas de funcionarios con énfasis en especialistas en IA y ciberseguridad",
+    "resumen": "Un análisis de Xataka explica que la OEP 2026 contempla más de 27.000 nuevas plazas, destacando que 1.700 se orientan a perfiles especializados en inteligencia artificial, ciberseguridad y ciencia de datos, con la intención de transformar la Administración hacia un modelo más eficiente, digital y capaz de aprovechar la automatización.",
+    "categoria_manual": "empleo / administración pública / economía digital",
+    "terminos_clave": [
+      "OEP 2026",
+      "funcionarios",
+      "expertos IA",
+      "ciberseguridad",
+      "ciencia de datos",
+      "modernización administrativa"
+    ]
+  },
+  {
+    "id": 34,
+    "fecha": "2025-07-28",
+    "pais_region": "España",
+    "fuente": "Computing",
+    "url": "https://www.computing.es/administracion/la-inteligencia-artificial-se-cuela-en-la-administracion-publica-espanola/",
+    "titulo": "La IA se extiende en la Administración Pública para agilizar trámites",
+    "resumen": "Un reportaje describe cómo diversos organismos públicos españoles están desplegando proyectos de análisis de datos e inteligencia artificial para reducir tiempos de tramitación y minimizar burocracia, incluyendo contratos que financian capacidades avanzadas de IA en empresas públicas estratégicas del ámbito de la defensa y el transporte.",
+    "categoria_manual": "administración pública / IA / automatización",
+    "terminos_clave": [
+      "Administración Pública",
+      "automatización de trámites",
+      "análisis de datos",
+      "empresa pública",
+      "IA aplicada"
+    ]
+  },
+  {
+    "id": 35,
+    "fecha": "2025-10-09",
+    "pais_region": "Unión Europea",
+    "fuente": "Comisión Europea",
+    "url": "https://digital-strategy.ec.europa.eu/es/policies/artificial-intelligence",
+    "titulo": "La Comisión impulsa fábricas de IA y un plan de acción para acelerar su adopción",
+    "resumen": "La Comisión Europea detalla un plan de acción para el continente de IA que incluye nuevas inversiones en fábricas de inteligencia artificial, convocatorias por más de 200 millones de euros y una estrategia \"Aplicar IA\" para acelerar el uso de algoritmos en sectores estratégicos, reforzando la soberanía tecnológica y la competitividad industrial europea.",
+    "categoria_manual": "estrategia digital / economía digital / IA",
+    "terminos_clave": [
+      "plan de acción IA",
+      "fábricas de IA",
+      "soberanía tecnológica",
+      "fondos europeos",
+      "economía digital"
+    ]
+  },
+  {
+    "id": 36,
+    "fecha": "2026-05-06",
+    "pais_region": "Unión Europea",
+    "fuente": "Representación de la Comisión Europea en España",
+    "url": "https://spain.representation.ec.europa.eu/noticias-eventos/noticias-0/la-ue-acuerda-simplificar-las-normas-sobre-ia-para-impulsar-la-innovacion-2026-05-06_es",
+    "titulo": "La UE acuerda simplificar normas de IA para impulsar la innovación",
+    "resumen": "Las instituciones europeas han alcanzado un acuerdo político para introducir normas más sencillas y favorables a la innovación en inteligencia artificial, definiendo un calendario claro para la aplicación de obligaciones a sistemas de alto riesgo en ámbitos como educación, empleo, biometría e infraestructuras críticas, con entrada plena en vigor a finales de 2027.",
+    "categoria_manual": "regulación tecnológica / IA / innovación",
+    "terminos_clave": [
+      "simplificación normativa",
+      "sistemas de alto riesgo",
+      "educación",
+      "empleo",
+      "biometría",
+      "infraestructuras críticas"
+    ]
+  },
+  {
+    "id": 37,
+    "fecha": "2026-03-22",
+    "pais_region": "España",
+    "fuente": "Ecosistema Startup",
+    "url": "https://ecosistemastartup.com/inteligencia-artificial-y-automatizacion-en-pymes-industriales-2026/",
+    "titulo": "Subvenciones para IA y automatización en pymes industriales en 2026",
+    "resumen": "Un artículo detalla los programas de ayudas disponibles en 2026 para que pymes industriales adopten inteligencia artificial y automatización, como SPRI IA 2026, IA360 Galicia o Ticket Innova, que financian proyectos de machine learning, robótica y RPA con subvenciones que pueden cubrir hasta el 60% de la inversión y buscan mejorar productividad y sostenibilidad.",
+    "categoria_manual": "economía digital / pymes / automatización",
+    "terminos_clave": [
+      "pymes industriales",
+      "subvenciones IA",
+      "SPRI IA 2026",
+      "IA360",
+      "RPA",
+      "robótica",
+      "productividad"
+    ]
+  },
+  {
+    "id": 38,
+    "fecha": "2026-05-14",
+    "pais_region": "España",
+    "fuente": "Ministerio de Economía / Red.es",
+    "url": "https://portal.mineco.gob.es/ca-es/comunicacion/Pagines/Nueva_convocatoria_Kit_Digital.aspx",
+    "titulo": "Nueva convocatoria de Kit Digital incorpora soluciones de IA para medianas empresas",
+    "resumen": "El Gobierno ha lanzado una nueva convocatoria del programa Kit Digital para empresas de entre 50 y 250 empleados, que por primera vez permite financiar herramientas basadas en inteligencia artificial, como chatbots, analítica de datos o automatización de procesos, con bonos de hasta 29.000 euros por compañía financiados con fondos NextGenerationEU.",
+    "categoria_manual": "economía digital / pymes / IA",
+    "terminos_clave": [
+      "Kit Digital",
+      "NextGenerationEU",
+      "IA para pymes",
+      "chatbots",
+      "automatización",
+      "bono digital"
+    ]
+  },
+  {
+    "id": 39,
+    "fecha": "2023-06-04",
+    "pais_region": "España",
+    "fuente": "Plan de Recuperación / ENIA",
+    "url": "https://planderecuperacion.gob.es/noticias/conoce-Estrategia-Nacional-Inteligencia-Artificial-ENIA-IA-prtr",
+    "titulo": "La Estrategia Nacional de IA refuerza el uso de algoritmos en la Administración y misiones país",
+    "resumen": "El Gobierno presenta la Estrategia Nacional de Inteligencia Artificial como uno de los ejes del Plan de Recuperación, con un quinto pilar destinado a potenciar el uso de la IA en la Administración Pública y en misiones estratégicas, incluyendo proyectos en sanidad, movilidad, transición ecológica y educación.",
+    "categoria_manual": "estrategia digital / administración pública / IA",
+    "terminos_clave": [
+      "ENIA",
+      "Plan de Recuperación",
+      "IA en Administración",
+      "misiones país",
+      "sanidad",
+      "movilidad"
+    ]
+  },
+  {
+    "id": 40,
+    "fecha": "2022-07-01",
+    "pais_region": "España",
+    "fuente": "España Digital 2026",
+    "url": "https://espanadigital.gob.es/sites/espanadigital/files/2022-07/Espa%C3%B1aDigital_2026.pdf",
+    "titulo": "España Digital 2026 multiplica la inversión en digitalización de administraciones y pymes",
+    "resumen": "El marco España Digital 2026 prevé multiplicar por veinte el presupuesto destinado a digitalizar las administraciones públicas y destinar miles de millones de euros a la transformación digital de pymes, con un papel central para la inteligencia artificial, los datos y la ciberseguridad en la modernización del tejido productivo.",
+    "categoria_manual": "estrategia digital / administración pública / pymes",
+    "terminos_clave": [
+      "España Digital 2026",
+      "administraciones públicas",
+      "pymes",
+      "IA",
+      "ciberseguridad",
+      "fondos europeos"
+    ]
+  },
+  {
+    "id": 41,
+    "fecha": "2026-05-21",
+    "pais_region": "España",
+    "fuente": "INAP / La Administración al Día",
+    "url": "https://laadministracionaldia.inap.es/noticia.asp",
+    "titulo": "El INAP refuerza líneas de trabajo en capital humano público digital",
+    "resumen": "Una edición reciente de 'La Administración al Día' recoge resoluciones y documentos del INAP que apuntan a la necesidad de reforzar el capital humano público en competencias digitales, incluyendo gestión de datos e inteligencia artificial, en línea con las prioridades de España Digital 2026 y la modernización del empleo público.",
+    "categoria_manual": "administración pública / empleo / formación digital",
+    "terminos_clave": [
+      "INAP",
+      "capital humano público",
+      "competencias digitales",
+      "datos",
+      "IA",
+      "España Digital 2026"
+    ]
+  },
+  {
+    "id": 42,
+    "fecha": "2026-03-01",
+    "pais_region": "Unión Europea",
+    "fuente": "Consejo de la UE / EPSCO",
+    "url": "https://apiscam.blogspot.com/2026/03/consejo-de-la-ue-consejo-de-empleo.html",
+    "titulo": "El Consejo de la UE orienta políticas de empleo y formación hacia competencias STEM y digitales",
+    "resumen": "En el contexto del Semestre Europeo de 2026, el Consejo de Empleo y Asuntos Sociales ha aprobado una recomendación sobre capital humano que insta a los Estados miembros a reforzar competencias STEM y digitales, clave para la adopción de la inteligencia artificial y la automatización en el mercado laboral europeo.",
+    "categoria_manual": "empleo / educación / competencias digitales",
+    "terminos_clave": [
+      "Semestre Europeo 2026",
+      "capital humano",
+      "STEM",
+      "competencias digitales",
+      "IA",
+      "empleo"
+    ]
+  },
+  {
+    "id": 43,
+    "fecha": "2026-05-01",
+    "pais_region": "Unión Europea",
+    "fuente": "Plataforma datos.gob.es",
+    "url": "https://datos.gob.es/es/noticias/como-la-union-europea-impulsa-la-inteligencia-artificial-estrategias-y-acciones-concretas",
+    "titulo": "La UE impulsa la IA con estrategias y acciones concretas de financiación y regulación",
+    "resumen": "Un artículo en la plataforma de datos abiertos española resume las principales iniciativas europeas en inteligencia artificial, combinando el AI Act con programas de financiación, infraestructuras de datos y fábricas de IA para acelerar la adopción en administraciones, empresas y centros de investigación.",
+    "categoria_manual": "estrategia digital / IA / financiación",
+    "terminos_clave": [
+      "AI Act",
+      "financiación IA",
+      "fábricas de IA",
+      "datos abiertos",
+      "administraciones",
+      "empresas"
+    ]
+  },
+  {
+    "id": 44,
+    "fecha": "2025-01-15",
+    "pais_region": "España",
+    "fuente": "España Digital",
+    "url": "http://espanadigital.gob.es/lineas-de-actuacion/ayudas-para-la-integracion-de-ia-en-las-cadenas-de-valor",
+    "titulo": "Ayudas para integrar IA en las cadenas de valor empresariales",
+    "resumen": "El programa de ayudas para la integración de la IA en las cadenas de valor financia proyectos de investigación industrial y desarrollo experimental en empresas españolas, cubriendo tecnologías como inteligencia artificial, procesamiento de lenguaje natural, ciberseguridad, biometría y robótica, con 105 millones de euros y criterios que favorecen la reducción de brechas digital y de género.",
+    "categoria_manual": "economía digital / innovación / IA",
+    "terminos_clave": [
+      "ayudas IA",
+      "cadenas de valor",
+      "investigación industrial",
+      "procesamiento del lenguaje natural",
+      "ciberseguridad",
+      "robótica"
+    ]
+  },
+  {
+    "id": 45,
+    "fecha": "2025-11-15",
+    "pais_region": "España / Unión Europea",
+    "fuente": "España Digital / fondos UE",
+    "url": "https://espanadigital.gob.es/lineas-de-actuacion",
+    "titulo": "Líneas de actuación digitales combinan IA, datos y ciberseguridad en España",
+    "resumen": "Las líneas de actuación de la agenda España Digital recogen diversas convocatorias que agrupan proyectos de inteligencia artificial, tratamiento masivo de datos, computación en la nube y ciberseguridad, con financiación europea orientada a modernizar tanto el tejido productivo como los servicios públicos.",
+    "categoria_manual": "estrategia digital / economía digital / administración pública",
+    "terminos_clave": [
+      "España Digital",
+      "inteligencia artificial",
+      "big data",
+      "ciberseguridad",
+      "computación en la nube",
+      "fondos europeos"
+    ]
+  },
+  {
+    "id": 46,
+    "fecha": "2025-09-01",
+    "pais_region": "Unión Europea",
+    "fuente": "Comisión Europea",
+    "url": "https://digital-strategy.ec.europa.eu/es/news/commission-collects-feedback-simplify-rules-data-cybersecurity-and-artificial-intelligence",
+    "titulo": "La Comisión recoge opiniones para revisar normas de datos, ciberseguridad e IA",
+    "resumen": "La Comisión Europea ha abierto un proceso de consulta para recabar información de empresas, autoridades y sociedad civil sobre cómo simplificar y armonizar las normas en materia de datos, ciberseguridad e inteligencia artificial, con vistas a un paquete legislativo que reduzca cargas burocráticas sin debilitar las garantías.",
+    "categoria_manual": "regulación tecnológica / ciberseguridad / datos",
+    "terminos_clave": [
+      "consulta pública",
+      "datos",
+      "ciberseguridad",
+      "inteligencia artificial",
+      "simplificación normativa"
+    ]
+  },
+  {
+    "id": 47,
+    "fecha": "2025-11-10",
+    "pais_region": "España",
+    "fuente": "España Digital",
+    "url": "http://espanadigital.gob.es/en/actualidad/abierta-la-convocatoria-redia-salud-para-proyectos-de-inteligencia-artificial-en-el",
+    "titulo": "España refuerza la digitalización sanitaria con nuevas convocatorias de IA",
+    "resumen": "Más allá de RedIA Salud, España Digital destaca el papel de los proyectos de inteligencia artificial en la mejora de procesos clínicos, gestión hospitalaria y análisis predictivo, apoyados mediante convocatorias cofinanciadas con fondos europeos para acelerar la transformación digital del sistema sanitario.",
+    "categoria_manual": "sanidad / economía digital / IA",
+    "terminos_clave": [
+      "digitalización sanitaria",
+      "inteligencia artificial",
+      "fondos europeos",
+      "gestión hospitalaria",
+      "analítica predictiva"
+    ]
+  },
+  {
+    "id": 48,
+    "fecha": "2025-10-01",
+    "pais_region": "Unión Europea",
+    "fuente": "Comisión Europea",
+    "url": "https://digital-strategy.ec.europa.eu/es/policies/european-approach-artificial-intelligence",
+    "titulo": "El enfoque europeo de IA combina inversión, regulación y protección de derechos",
+    "resumen": "La Comisión reafirma que su enfoque para la inteligencia artificial se basa en fomentar la excelencia en investigación y ecosistemas de innovación, a la vez que asegura un marco normativo exigente en materia de derechos fundamentales, transparencia y seguridad, buscando un equilibrio entre competitividad y confianza ciudadana.",
+    "categoria_manual": "estrategia digital / IA / derechos fundamentales",
+    "terminos_clave": [
+      "enfoque europeo",
+      "excelencia",
+      "ecosistema de innovación",
+      "derechos fundamentales",
+      "transparencia",
+      "seguridad"
+    ]
+  },
+  {
+    "id": 49,
+    "fecha": "2026-01-27",
+    "pais_region": "España / Unión Europea",
+    "fuente": "Europa Press / Adigital",
+    "url": "https://www.europapress.es/economia/noticia-empresas-apuntan-normativas-ia-ciberseguridad-prioridades-regulatorias-2026-20260128.html",
+    "titulo": "Las empresas sitúan la regulación de IA y ciberseguridad entre sus grandes retos de 2026",
+    "resumen": "La encuesta empresarial difundida por Adigital y recogida por Europa Press muestra que las empresas españolas consideran prioritario adaptarse al AI Act y a la nueva directiva NIS2, lo que exige reforzar equipos de cumplimiento, ciberseguridad y gestión de riesgos tecnológicos en toda la economía digital.",
+    "categoria_manual": "economía digital / empresa / regulación",
+    "terminos_clave": [
+      "regulación IA",
+      "NIS2",
+      "cumplimiento normativo",
+      "ciberseguridad",
+      "economía digital",
+      "empresas españolas"
+    ]
+  },
+  {
+    "id": 50,
+    "fecha": "2026-03-01",
+    "pais_region": "Unión Europea / España",
+    "fuente": "Informes y análisis sectoriales",
+    "url": "https://www.deloitte.com/es/es/services/consulting/research/estado-ciberseguridad.html",
+    "titulo": "Informes de 2026 remarcan la convergencia entre ciberseguridad, datos e IA en la estrategia corporativa",
+    "resumen": "Diversos informes, entre ellos el de Deloitte sobre el estado de la ciberseguridad, subrayan que las organizaciones en España y la UE están integrando de forma conjunta la inteligencia artificial, la analítica de datos y la seguridad informática en su estrategia, tanto por presión regulatoria como por la necesidad de proteger operaciones cada vez más digitalizadas.",
+    "categoria_manual": "ciberseguridad / economía digital / IA",
+    "terminos_clave": [
+      "ciberseguridad",
+      "inteligencia artificial",
+      "analítica de datos",
+      "estrategia corporativa",
+      "presión regulatoria",
+      "España",
+      "UE"
+    ]
+  }
+]
